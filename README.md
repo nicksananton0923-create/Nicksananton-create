@@ -1,4 +1,4 @@
- Hi, I'm Nicksananton 👋
+ Hi, I'm Nicksananton 
 
 **Electrical Technology Student | Solar PV | Industrial Maintenance | Arduino & IoT**
 
