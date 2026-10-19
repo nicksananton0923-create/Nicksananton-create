@@ -32,6 +32,12 @@ A project focused on detecting tomato colour and sorting tomatoes into colour/ri
 - Repository: [Arduino-tomato-colour-sorting](https://github.com/nicksananton0923-create/Arduino-tomato-colour-sorting)
 - Focus: automation concept, colour detection, sorting logic, and project documentation
 - Status: component choices, wiring, and test results should be treated as confirmed only where the repository explicitly documents them.
+
+ 3. Smart Fire Detection and Alarm Prototype
+An educational Arduino prototype exploring flame/smoke sensor inputs, alarm states, diagnostics, and a simulated suppression indicator.
+- Repository: [Arduino-smart-fire-detection-suppression](https://github.com/nicksananton0923-create/Arduino-smart-fire-detection-suppression)
+- Focus: embedded control logic, sensor monitoring, fault-state concepts, and safety-conscious documentation
+- Status: educational prototype only; hardware and sensor performance are unverified, and the simulated output is not a real fire-suppression system.
   
  💼 Practical Experience
 
