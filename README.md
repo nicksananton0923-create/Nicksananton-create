@@ -34,7 +34,7 @@
 
 ---
 
-## 👋 About Me
+##  About Me
 
 Hi! I'm **Anton**, also known by my nickname **BLACK**, from Sri Lanka.
 
