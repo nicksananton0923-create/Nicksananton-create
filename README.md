@@ -1,15 +1,15 @@
 
-<!-- ===================================================== -->
-<!-- ANTON | ENGINEERING & TECHNOLOGY PORTFOLIO            -->
-<!-- Profile README for nicksananton0923-create             -->
-<!-- ===================================================== -->
+<!-- ====================================================== -->
+<!-- ANTON | BLACK | ENGINEERING PORTFOLIO                  -->
+<!-- GitHub: nicksananton0923-create                        -->
+<!-- ====================================================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D12,50:321052,100:FF00CC&height=240&section=header&text=BLACK&fontSize=72&fontColor=FFFFFF&fontAlignY=36&desc=ELECTRICAL%20TECHNOLOGY%20%7C%20SOLAR%20PV%20%7C%20AUTOMATION&descSize=15&descAlignY=59&animation=fadeIn" alt="Black's engineering portfolio banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D12,35:251039,70:6A11CB,100:FF00CC&height=250&section=header&text=ANTON&fontSize=78&fontColor=FFFFFF&fontAlignY=35&desc=ELECTRICAL%20TECHNOLOGY%20%7C%20SOLAR%20PV%20%7C%20AUTOMATION&descSize=15&descAlignY=58&animation=fadeIn" width="100%" alt="Anton Engineering Portfolio Banner"/>
 
 <a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=FF00CC&center=true&vCenter=true&width=700&lines=Welcome+to+my+engineering+portfolio!;Electrical+Technology+%7C+Industrial+Maintenance;Solar+PV+%7C+Arduino+%7C+ESP32;Monitoring+%7C+Automation+%7C+Technical+Projects;Learn.+Build.+Test.+Improve." alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=FF00CC&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Anton+%F0%9F%91%8B;BLACK+is+my+nickname;Electrical+%26+Industrial+Technology;Solar+PV+%7C+Arduino+%7C+ESP32;Learn.+Build.+Test.+Improve.+%F0%9F%9A%80" alt="Animated introduction"/>
 </a>
 
 <br/><br/>
@@ -22,45 +22,73 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/FOCUS-ELECTRICAL%20TECHNOLOGY-19121F?style=flat-square&labelColor=19121F" alt="Electrical Technology"/>
+<img src="https://img.shields.io/badge/FOCUS-ELECTRICAL%20TECHNOLOGY-21102D?style=flat-square" alt="Electrical Technology"/>
 <img src="https://img.shields.io/badge/INTEREST-SOLAR%20PV-321052?style=flat-square" alt="Solar PV"/>
 <img src="https://img.shields.io/badge/INTEREST-INDUSTRIAL%20AUTOMATION-7B2CFF?style=flat-square" alt="Industrial automation"/>
+
+<br/><br/>
+
+**Engineering Portfolio | Practical Learning | Continuous Improvement**
 
 </div>
 
 ---
 
-##  About Me
+## 👋 About Me
 
-Hi! I'm **Black**, an Electrical Technology student from Sri Lanka, building a professional portfolio around electrical systems, industrial maintenance, renewable energy and automation.
+Hi! I'm **Anton**, also known by my nickname **BLACK**, from Sri Lanka.
 
-I enjoy learning through practical technical work, documenting what I learn, and developing projects that connect electrical technology with monitoring, electronics and digital tools.
+I'm an Electrical Technology student developing my professional portfolio around electrical systems, renewable energy, industrial maintenance, embedded electronics, monitoring and automation.
+
+I enjoy connecting practical technical experience with structured documentation and technology-based solutions. Through my projects, I aim to improve my technical knowledge, troubleshooting skills, programming abilities and understanding of real-world industrial applications.
 
 - 🎓 **Education:** Electrical Technology — University College of Anuradhapura
-- ⚡ **Career direction:** Assistant Engineer and electrical/industrial technical roles
-- ☀️ **Solar PV:** Practical exposure to solar project activities, site coordination, safety and material documentation
-- 🏭 **Industrial maintenance:** Equipment monitoring, preventive maintenance, breakdown analysis and technical reporting
-- 🔌 **Embedded electronics:** Arduino, ESP32, sensors and control concepts
-- 📊 **Monitoring & reporting:** Excel-based data recording, analysis and technical documentation
-- 🤖 **Automation interests:** Industrial monitoring, maintenance workflows and control systems
-- 🌱 **Current goal:** Build a well-documented portfolio and continue developing practical engineering skills
+- ⚡ **Career Goal:** Assistant Engineer and electrical/industrial technical roles
+- ☀️ **Solar PV:** Practical exposure to solar project activities, equipment, site coordination and material documentation
+- 🏭 **Industrial Maintenance:** Preventive maintenance, breakdown analysis, equipment monitoring and technical reporting
+- 🔌 **Embedded Electronics:** Arduino, ESP32, sensors and control-system concepts
+- 📊 **Monitoring & Reporting:** Excel-based records, consumption monitoring and technical documentation
+- 🤖 **Automation:** Industrial monitoring, control concepts and digital maintenance workflows
+- 🌱 **Currently Working On:** Building and documenting an engineering-focused GitHub portfolio
+- 🤝 **Interests:** Technical collaboration, continuous learning and practical engineering projects
 
-> My goal is to turn practical experience, continuous learning and technical ideas into clearly documented engineering projects.
+> My goal is to develop practical engineering skills, document what I learn, and build useful solutions through continuous improvement.
 
 ---
 
-## 🛠️ Technical Skills & Interests
+## 🎯 Professional Interests
+
+<div align="center">
+
+| ⚡ Electrical | ☀️ Renewable Energy | 🏭 Industrial Systems |
+|---|---|---|
+| Electrical maintenance | Solar PV systems | Preventive maintenance |
+| Troubleshooting | PV equipment | Equipment monitoring |
+| Technical documentation | Site coordination | Breakdown analysis |
+
+| 🔌 Electronics | 📊 Digital Tools | 🤖 Automation |
+|---|---|---|
+| Arduino | Excel reporting | Monitoring systems |
+| ESP32 | Google Sheets | Control concepts |
+| Sensors | Technical records | Workflow improvement |
+
+</div>
+
+---
+
+## 🛠️ Technical Skills & Tools
 
 ### ⚡ Electrical & Industrial Technology
 
 <p>
 <img src="https://img.shields.io/badge/Electrical%20Systems-Technical%20Learning-FF00CC?style=for-the-badge" alt="Electrical systems"/>
 <img src="https://img.shields.io/badge/Solar%20PV-Project%20Exposure-7B2CFF?style=for-the-badge" alt="Solar PV"/>
+<img src="https://img.shields.io/badge/Industrial-Maintenance-321052?style=for-the-badge" alt="Industrial maintenance"/>
 </p>
 
 - Electrical maintenance and troubleshooting
 - Preventive maintenance documentation
-- Solar PV installation and site activities
+- Solar PV project activities
 - Industrial equipment monitoring
 - Energy and water consumption monitoring
 - HVAC maintenance documentation
@@ -75,25 +103,27 @@ I enjoy learning through practical technical work, documenting what I learn, and
 - Arduino-based monitoring and control projects
 - ESP32 sensor and control concepts
 - Sensor-based alert systems
-- Microcontroller project documentation
+- Embedded electronics project documentation
 - GitHub and Markdown
 - Python and programming fundamentals
 
-### 📊 Digital Tools & Documentation
+### 📊 Monitoring & Documentation
 
-- Microsoft Excel — monitoring records and reports
+- Microsoft Excel — monitoring records, data analysis and reporting
 - Google Sheets — structured data and reporting
-- Google Apps Script — workflow automation learning and projects
-- Technical documentation — checklists, maintenance records and project READMEs
+- Google Apps Script — workflow automation projects
+- Technical documentation — maintenance records, checklists and reports
 - AutoCAD — electrical drawing skills as developed through practice
 
-*This section describes my technical interests and working areas. Individual repositories document which technologies and functions have actually been implemented and tested.*
+*The technologies shown represent working areas and learning interests. Each repository should identify its actual implementation, testing status and limitations.*
 
 ---
 
-## 🚀 Project Portfolio
+## 🚀 My Engineering Project Portfolio
 
-My repositories cover embedded electronics, industrial maintenance, energy monitoring and engineering documentation. Project status varies by repository; please refer to each README for its actual implementation and testing status.
+I use GitHub to document project ideas, implementation work, technical learning and engineering-related documentation.
+
+**Important:** A repository link does not by itself mean a project is complete or tested. Please check each repository's README for its current status.
 
 ### 🔬 Embedded Electronics & Automation
 
@@ -101,20 +131,30 @@ My repositories cover embedded electronics, industrial maintenance, energy monit
 <tr>
 <td width="50%" valign="top">
 
-### 🌫️ Industrial Air Quality Monitor
+### 🌫️ Industrial Air Quality Monitoring
 
-Arduino-based industrial air-quality monitoring and alert-system project.
+An Arduino-based project for monitoring particulate matter and presenting safety alerts.
 
-[**Open Repository →**](https://github.com/nicksananton0923-create/Industrial-Air-Quality-Monitor)
+**Focus**
+- Sensor-based measurements
+- Display and warning logic
+- Industrial air-quality monitoring
+
+[View Repository →](https://github.com/nicksananton0923-create/Industrial-Air-Quality-Monitor)
 
 </td>
 <td width="50%" valign="top">
 
-### 🍅 Tomato Colour Sorting
+### 🍅 Tomato Colour Sorting Conveyor
 
-Colour-based tomato detection and conveyor-sorting project.
+A colour-detection and conveyor-sorting concept for tomato classification.
 
-[**Open Repository →**](https://github.com/nicksananton0923-create/Arduino-Tomato-Colour-Sorting)
+**Focus**
+- Colour detection
+- Conveyor automation
+- Sorting logic
+
+[View Repository →](https://github.com/nicksananton0923-create/Arduino-Tomato-Colour-Sorting)
 
 </td>
 </tr>
@@ -123,18 +163,28 @@ Colour-based tomato detection and conveyor-sorting project.
 
 ### 🔥 Smart Fire Detection & Suppression
 
-Fire detection, alarm and proposed automatic suppression system.
+A project concept combining fire detection, alarm notification and proposed automatic suppression.
 
-[**Open Repository →**](https://github.com/nicksananton0923-create/Arduino-Smart-Fire-Detection-Suppression)
+**Focus**
+- Fire detection concepts
+- Audible alerts
+- Automatic response logic
+
+[View Repository →](https://github.com/nicksananton0923-create/Arduino-Smart-Fire-Detection-Suppression)
 
 </td>
 <td width="50%" valign="top">
 
 ### 💧 STP Four-Relay Control System
 
-Arduino-based relay-control project for a wastewater-treatment application.
+A relay-control project for a wastewater-treatment application.
 
-[**Open Repository →**](https://github.com/nicksananton0923-create/STP-Four-Relay-Control-System)
+**Focus**
+- Microcontroller control logic
+- Relay-based switching
+- Industrial application concepts
+
+[View Repository →](https://github.com/nicksananton0923-create/STP-Four-Relay-Control-System)
 
 </td>
 </tr>
@@ -143,37 +193,47 @@ Arduino-based relay-control project for a wastewater-treatment application.
 
 ### 🌡️ ESP32 Temperature Cooling Control
 
-Temperature-based cooling-control project using ESP32.
+A temperature-based cooling-control project using ESP32.
 
-[**Open Repository →**](https://github.com/nicksananton0923-create/Esp32-Temperature-Cooling-Control)
+**Focus**
+- Temperature monitoring
+- Threshold-based control
+- Sensor and relay concepts
+
+[View Repository →](https://github.com/nicksananton0923-create/Esp32-Temperature-Cooling-Control)
 
 </td>
 <td width="50%" valign="top">
 
 ### ☀️ Solar PV Engineering Portfolio
 
-A portfolio repository for solar photovoltaic engineering learning and project documentation.
+A portfolio space for documenting solar PV learning and project-related activities.
 
-[**Open Repository →**](https://github.com/nicksananton0923-create/Solar-Pv-Engineering-Portfolio)
+**Focus**
+- PV equipment
+- Installation activities
+- Technical documentation
+
+[View Repository →](https://github.com/nicksananton0923-create/Solar-Pv-Engineering-Portfolio)
 
 </td>
 </tr>
 </table>
 
-### 🏭 Industrial Maintenance & Monitoring
+### 🏭 Industrial Maintenance, Energy & Documentation
 
-| Repository | Focus |
-|---|---|
-| [Industrial HVAC Maintenance](https://github.com/nicksananton0923-create/Industrial-HVAC-Maintenance) | HVAC maintenance procedures and records |
-| [Industrial Water Consumption Monitoring](https://github.com/nicksananton0923-create/Industrial-Water-Consumption-Monitoring-) | Water-use monitoring and reporting |
-| [Industrial Maintenance Energy Monitoring](https://github.com/nicksananton0923-create/Industrial-Maintenance-Energy-Monitoring) | Industrial energy monitoring |
-| [Industrial Energy Monitoring Dashboard](https://github.com/nicksananton0923-create/Industrial-Energy-Monitoring-Dashboard) | Energy-data dashboard project |
-| [Industrial Maintenance Request System](https://github.com/nicksananton0923-create/Industrial-Maintenance-Request-system) | Maintenance request and workflow management |
-| [Industrial Preventive Maintenance](https://github.com/nicksananton0923-create/Industrial-Preventive-Maintenance) | Preventive maintenance documentation |
-| [Industrial Compressor Maintenance](https://github.com/nicksananton0923-create/Industrial-Compressor-Maintenance) | Compressor maintenance records and procedures |
-| [Industrial HVAC Maintenances](https://github.com/nicksananton0923-create/Industrial-HVAC-Maintenances) | Additional HVAC documentation repository |
-| [Water Consumption Monitoring](https://github.com/nicksananton0923-create/Water-Consumption-Monitoring) | Water monitoring and reporting project |
-| [Industrial Maintenance Request Systems](https://github.com/nicksananton0923-create/Industrial-Maintenance-Request-Systems) | Additional maintenance workflow repository |
+| Project | Main focus | Repository |
+|---|---|---|
+| Industrial HVAC Maintenance | HVAC maintenance documentation | [Open →](https://github.com/nicksananton0923-create/Industrial-HVAC-Maintenance) |
+| Industrial Water Consumption Monitoring | Water-use records and analysis | [Open →](https://github.com/nicksananton0923-create/Industrial-Water-Consumption-Monitoring-) |
+| Industrial Energy Monitoring | Industrial energy data | [Open →](https://github.com/nicksananton0923-create/Industrial-Maintenance-Energy-Monitoring) |
+| Energy Monitoring Dashboard | Energy-data visualization | [Open →](https://github.com/nicksananton0923-create/Industrial-Energy-Monitoring-Dashboard) |
+| Maintenance Request System | Digital maintenance workflows | [Open →](https://github.com/nicksananton0923-create/Industrial-Maintenance-Request-system) |
+| Preventive Maintenance | Inspection schedules and checklists | [Open →](https://github.com/nicksananton0923-create/Industrial-Preventive-Maintenance) |
+| Compressor Maintenance | Compressor records and procedures | [Open →](https://github.com/nicksananton0923-create/Industrial-Compressor-Maintenance) |
+| HVAC Maintenance Documentation | HVAC-related records | [Open →](https://github.com/nicksananton0923-create/Industrial-HVAC-Maintenances) |
+| Water Consumption Monitoring | Water monitoring and reporting | [Open →](https://github.com/nicksananton0923-create/Water-Consumption-Monitoring) |
+| Maintenance Request Workflows | Maintenance management concepts | [Open →](https://github.com/nicksananton0923-create/Industrial-Maintenance-Request-Systems) |
 
 ---
 
@@ -181,7 +241,7 @@ A portfolio repository for solar photovoltaic engineering learning and project d
 
 ### ☀️ Solar PV — Hayleys Fentons
 
-Practical exposure to solar PV project activities, including:
+Practical exposure to solar photovoltaic project activities, including:
 
 - PV modules, inverters and electrical cabling
 - Site coordination and supervision support
@@ -190,7 +250,7 @@ Practical exposure to solar PV project activities, including:
 
 ### 🏭 Industrial Maintenance — MAS Vidiyal
 
-Experience in industrial maintenance activities, including:
+Practical industrial maintenance experience, including:
 
 - Preventive maintenance and equipment monitoring
 - Breakdown analysis and maintenance support
@@ -198,17 +258,31 @@ Experience in industrial maintenance activities, including:
 - Technical reporting and documentation
 - Daily operational support and continuous improvement
 
-*The details above summarize practical exposure and activities; they do not imply independent authorization for engineering design, commissioning or safety-critical work.*
+*This summary describes practical exposure and work activities. It does not imply independent authorization for electrical design, commissioning or safety-critical work.*
 
 ---
 
-## 📈 GitHub Statistics
+## 📚 My Learning Roadmap
+
+- [x] Start building an engineering-focused GitHub portfolio
+- [x] Create repositories for engineering-related projects
+- [ ] Review existing repositories and improve documentation
+- [ ] Add accurate wiring diagrams and component lists
+- [ ] Document code, implementation and testing results
+- [ ] Improve Arduino and ESP32 project development
+- [ ] Develop industrial monitoring dashboards
+- [ ] Improve programming and workflow automation skills
+- [ ] Continue developing my professional engineering career
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
 <img height="175" src="https://github-readme-stats.vercel.app/api?username=nicksananton0923-create&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D12&title_color=FF00CC&icon_color=7B2CFF&text_color=FFFFFF" alt="GitHub statistics"/>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicksananton0923-create&layout=compact&theme=radical&hide_border=true&bg_color=0D0D12&title_color=FF00CC&text_color=FFFFFF&langs_count=8" alt="Most-used languages"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicksananton0923-create&layout=compact&theme=radical&hide_border=true&bg_color=0D0D12&title_color=FF00CC&text_color=FFFFFF&langs_count=8" alt="Most-used programming languages"/>
 
 <br/><br/>
 
@@ -222,40 +296,27 @@ Experience in industrial maintenance activities, including:
 
 ---
 
-## 🎯 My Development Roadmap
-
-- [x] Start building an engineering-focused GitHub portfolio
-- [x] Create repositories for multiple engineering projects
-- [ ] Review existing README files for accuracy and consistency
-- [ ] Add project-specific diagrams, wiring details and component lists
-- [ ] Document implementation and testing results
-- [ ] Improve Arduino, ESP32 and automation projects
-- [ ] Develop clearer industrial energy and maintenance dashboards
-- [ ] Continue learning and building practical technical skills
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/nicksananton0923-create">
-<img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-My%20Portfolio-181717?style=for-the-badge&logo=github" alt="GitHub Portfolio"/>
 </a>
 
-<!-- Add your real LinkedIn URL before enabling this badge. -->
-<!--
-<a href="YOUR_REAL_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/nicksan-anton-8509572b5/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Anton-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
--->
 
-<!-- Add your professional email before enabling this badge. -->
-<!--
-<a href="mailto:YOUR_REAL_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-FF00CC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<a href="mailto:nicksananton0923@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Anton-FF00CC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
--->
+
+<br/><br/>
+
+**Anton | BLACK is my nickname**
+
+*Electrical Technology • Solar PV • Industrial Maintenance • Automation*
 
 </div>
 
@@ -267,6 +328,6 @@ Experience in industrial maintenance activities, including:
 
 *Building my engineering journey one project at a time.* 🚀
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00CC,50:321052,100:0D0D12&height=120&section=footer" alt="Neon portfolio footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00CC,45:6A11CB,100:0D0D12&height=130&section=footer" width="100%" alt="Neon purple and pink footer"/>
 
 </div>
