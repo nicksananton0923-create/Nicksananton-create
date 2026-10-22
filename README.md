@@ -1,6 +1,6 @@
 
 <!-- ===================================================== -->
-<!-- BLACK | ENGINEERING & TECHNOLOGY PORTFOLIO            -->
+<!-- ANTON | ENGINEERING & TECHNOLOGY PORTFOLIO            -->
 <!-- Profile README for nicksananton0923-create             -->
 <!-- ===================================================== -->
 
@@ -30,7 +30,7 @@
 
 ---
 
-## 👋 About Me
+##  About Me
 
 Hi! I'm **Black**, an Electrical Technology student from Sri Lanka, building a professional portfolio around electrical systems, industrial maintenance, renewable energy and automation.
 
